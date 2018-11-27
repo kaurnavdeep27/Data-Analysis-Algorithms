@@ -21,6 +21,6 @@ CancerData_test_labels |         B |         M | Row Total |
 -----------------------|-----------|-----------|-----------|
 
 
-Decicion Tree
+Decision Tree
 
 In this project the analysis was done using R Language on more than 4000 rows of data. To analyze data we used Decision Tree algorithm by providing training and testing data percentage. We were able to achieve 63% accuracy. 
